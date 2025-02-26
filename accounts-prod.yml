@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Bank accounts related prod APIs "
+  message: "Welcome to Bank accounts related PRODUCTION APIs "
   contactDetails:
     name: "Fernando Salas - Product Owner"
     email: "{cipher}e8427f15bc03c1419473e352b1b3e04fc088292fca08a9d8428f7ab1980db09cf9781d68761272fd3c22d37e180c8c2c"
