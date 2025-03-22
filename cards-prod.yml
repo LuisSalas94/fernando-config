@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Bank cards related docker APIs"
+  message: "Welcome to Bank cards related Docker APIs"
   contactDetails:
     name: "Pedro Salas - Product Owner"
     email: "pedro@gmail.com"
